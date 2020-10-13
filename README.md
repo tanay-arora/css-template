@@ -10,7 +10,7 @@
 
 > use inline css for minor change, but for better results
 
-  it is advised to edit in css file
+> it is advised to edit in css file
 
 ### for editing css file in a proper way follow the instructions
 
